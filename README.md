@@ -11,11 +11,19 @@ There are many potential applications for the Automatic Face Tracker. For exampl
 To improve the performance and scalability of the software, the processing of the video streams can be distributed using edge computing. Alternatively, in small businesses, a headless server could be used to handle the processing load, with the client using a monitor to view the processed information.
 
 
-EXAMPLE IMAGE
+# EXAMPLE IMAGE
 ![image](https://user-images.githubusercontent.com/31916065/208233117-da8c779d-3015-45bc-85f6-47f5f474302e.png)
+
+
 ![image](https://user-images.githubusercontent.com/31916065/208233118-663c5cd6-4508-4f71-a2f0-656039fb0da1.png)
+
+
 ![image](https://user-images.githubusercontent.com/31916065/208233120-9506fd56-7704-412f-b060-a71078890438.png)
+
+
 ![image](https://user-images.githubusercontent.com/31916065/208233123-55549196-2175-4480-9e14-3d69c8c9415c.png)
+
+
 ![image](https://user-images.githubusercontent.com/31916065/208233129-614a355a-7e62-4ca0-a490-3e2189a80aae.png)
 
 
